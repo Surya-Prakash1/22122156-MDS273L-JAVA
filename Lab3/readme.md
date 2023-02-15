@@ -8,6 +8,14 @@ Find the Mode Value
 From the user-given array.
 The program should have a minimum of 3 functions apart from the main function; each of the functions implements the Mean, Median, and Mode computation by accepting the array user has entered as a parameter and returning the value as a result. From the main method, you will display the result.
 
+Explanation:
+
+To run the program type the following commands,
+ * javac filepath\filename
+ * java filename
+ 
+Explanation were given as comments for each functions.
+
 The output for the following program is:
 
 Enter the length of the integer array: 5
@@ -45,9 +53,5 @@ Menu
 Enter your choice: 4
 -----------Invalid choice. Try again-----------
 
-Explanation:
 
-To run the program type the following commands,
- * javac filepath\filename
- * java filename
 
