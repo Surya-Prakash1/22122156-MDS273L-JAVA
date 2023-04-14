@@ -1,0 +1,123 @@
+-------------------Mean-------------------
+Mean of Sepal length: 5.843333333333335
+Mean of Sepal Width: 3.0540000000000007
+Mean of Petal length: 3.7586666666666693
+Mean of Petal Width: 1.1986666666666672
+
+-------------------Median-------------------
+Median of Sepal length: 5.8
+Median of Sepal Width: 3.0
+Median of Petal length: 4.35
+Median of Petal Width: 1.3
+
+-------------------Mode-------------------
+Mode of Sepal length: 4.3
+Mode of Sepal Width: 2.0
+Mode of Petal length: 1.0
+Mode of Petal Width: 0.1
+
+-------------------Maximum-------------------
+Maximum of Sepal length: 7.9
+Maximum of Sepal Width: 4.4
+Maximum of Petal length: 6.9
+Maximum of Petal Width: 2.5
+
+-------------------Minimum-------------------
+Minimum of Sepal length: 4.3
+Minimum of Sepal Width: 2.0
+Minimum of Petal length: 1.0
+Minimum of Petal Width: 0.1
+
+-------------------Statistics for setosa-------------------
+-------------------Mean-------------------
+Mean of Sepal length: 5.005999999999999
+Mean of Sepal Width: 3.4180000000000006
+Mean of Petal length: 1.464
+Mean of Petal Width: 0.2439999999999999
+
+-------------------Median-------------------
+Median of Sepal length: 5.0
+Median of Sepal Width: 3.4
+Median of Petal length: 1.5
+Median of Petal Width: 0.2
+
+-------------------Mode-------------------
+Mode of Sepal length: 4.3
+Mode of Sepal Width: 2.3
+Mode of Petal length: 1.0
+Mode of Petal Width: 0.1
+
+-------------------Maximum-------------------
+Maximum of Sepal length: 5.8
+Maximum of Sepal Width: 4.4
+Maximum of Petal length: 1.9
+Maximum of Petal Width: 0.6
+
+-------------------Minimum-------------------
+Minimum of Sepal length: 4.3
+Minimum of Sepal Width: 2.3
+Minimum of Petal length: 1.0
+Minimum of Petal Width: 0.1
+
+-------------------Statistics for Versicolor-------------------
+-------------------Mean-------------------
+Mean of Sepal length: 5.936
+Mean of Sepal Width: 2.7700000000000005
+Mean of Petal length: 4.26
+Mean of Petal Width: 1.3259999999999998
+
+-------------------Median-------------------
+Median of Sepal length: 5.9
+Median of Sepal Width: 2.8
+Median of Petal length: 4.35
+Median of Petal Width: 1.3
+
+-------------------Mode-------------------
+Mode of Sepal length: 4.9
+Mode of Sepal Width: 2.0
+Mode of Petal length: 3.0
+Mode of Petal Width: 1.0
+
+-------------------Maximum-------------------
+Maximum of Sepal length: 7.0
+Maximum of Sepal Width: 3.4
+Maximum of Petal length: 5.1
+Maximum of Petal Width: 1.8
+
+-------------------Minimum-------------------
+Minimum of Sepal length: 4.9
+Minimum of Sepal Width: 2.0
+Minimum of Petal length: 3.0
+Minimum of Petal Width: 1.0
+
+-------------------Statistics for Virginica-------------------
+-------------------Mean-------------------
+Mean of Sepal length: 6.587999999999998
+Mean of Sepal Width: 2.9739999999999998
+Mean of Petal length: 5.552
+Mean of Petal Width: 2.026
+
+-------------------Median-------------------
+Median of Sepal length: 6.5
+Median of Sepal Width: 3.0
+Median of Petal length: 5.55
+Median of Petal Width: 2.0
+
+-------------------Mode-------------------
+Mode of Sepal length: 4.9
+Mode of Sepal Width: 2.2
+Mode of Petal length: 4.5
+Mode of Petal Width: 1.4
+
+-------------------Maximum-------------------
+Maximum of Sepal length: 7.9
+Maximum of Sepal Width: 3.8
+Maximum of Petal length: 6.9
+Maximum of Petal Width: 2.5
+
+-------------------Minimum-------------------
+Minimum of Sepal length: 4.9
+Minimum of Sepal Width: 2.2
+Minimum of Petal length: 4.5
+Minimum of Petal Width: 1.4
+
